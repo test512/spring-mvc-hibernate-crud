@@ -5,6 +5,7 @@ http://localhost:8080/springmvc-jpa-crud/persons
 
 @Reference:
 -------------
+<<<<<<< HEAD
 http://www.journaldev.com/3531/spring-mvc-hibernate-mysql-integration-crud-example-tutorial
 
 
@@ -43,3 +44,6 @@ http://www.journaldev.com/3531/spring-mvc-hibernate-mysql-integration-crud-examp
 	<!-- turn on spring transaction annotation -->
 	<tx:annotation-driven transaction-manager="transactionManager" />
 	```
+=======
+http://www.journaldev.com/3531/spring-mvc-hibernate-mysql-integration-crud-example-tutorial
+>>>>>>> 7e877f78c640bfd076ec4dc9dcc53ce6b992bdc2
